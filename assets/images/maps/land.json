@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"land.png",
+ "imageheight":32,
+ "imagewidth":32,
+ "margin":0,
+ "name":"land",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.6.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.6
+}
